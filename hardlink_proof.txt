@@ -1,0 +1,2 @@
+-rw-r--r-- 2 root root 43 Feb 16 12:53 /root/webapp-deploy/backup/production_settings.conf
+-rw-r--r-- 2 root root 43 Feb 16 12:53 /root/webapp-deploy/config/app_settings.conf
